@@ -8,7 +8,7 @@ Previously built enterprise microservices at **WeWork** that processed billions 
 
 Led full-stack development at **Apero Health** (Y Combinator), shipping Django APIs and React frontends used by healthcare professionals daily.
 
-**Top 0.01% Cursor coder in SF** 🚀
+**Top 0.01% Cursor coder in SF** 🚀 https://x.com/LeoDuquesnel/status/1907493055156072956
 
 **📫 How to reach me:**
 
