@@ -32,4 +32,4 @@ Currently focused on healthcare technology, authentication systems, and scalable
 
 **🚀 Interests:**
 
-AI • Space • Health • Investments • Entrepreneurship • Startups • VCs
+AI • Space • Health • Tech • Investments • Entrepreneurship • Startups • VCs
