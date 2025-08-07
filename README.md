@@ -13,8 +13,8 @@ Led full-stack development at **Apero Health** (Y Combinator), shipping Django A
 **📫 How to reach me:**
 
 - [leo.duquesnel@gmail.com](mailto:leo.duquesnel@gmail.com)
-- [https://x.com/LeoDuquesnel](https://x.com/LeoDuquesnel)
-- [https://www.linkedin.com/in/leoduquesnel](https://www.linkedin.com/in/leoduquesnel)
+- [x.com/LeoDuquesnel](https://x.com/LeoDuquesnel)
+- [linkedin.com/in/leoduquesnel](https://www.linkedin.com/in/leoduquesnel)
 
 **🛠️ Technologies I work with:**
 
