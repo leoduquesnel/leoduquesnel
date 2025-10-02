@@ -26,7 +26,7 @@ Led full-stack development at **Apero Health** (Y Combinator), shipping Django A
 
 **💼 VC-Backed Experience:**
 
-Built at companies backed by: **Y Combinator, SoftBank Vision Fund, Benchmark Capital, New Enterprise Associates, Insight Partners, Goldman Sachs, Soma Capital, Transformation Capital, Groupe Arnault, Wei Guo.**
+Worked at companies and startups backed by: **Y Combinator, SoftBank Vision Fund, Benchmark Capital, New Enterprise Associates, Insight Partners, Goldman Sachs, Soma Capital, Transformation Capital, Groupe Arnault, Wei Guo.**
 
 Currently focused on healthcare technology, authentication systems, and scalable web applications.
 
