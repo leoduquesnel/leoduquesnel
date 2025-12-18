@@ -10,7 +10,9 @@ Built enterprise microservices at **WeWork** that processed billions of IoT data
 
 
 **Top 0.01% & 1% Cursor coder in SF** 🚀
+
 https://x.com/LeoDuquesnel/status/1907493055156072956
+
 https://x.com/LeoDuquesnel/status/2001450004108501087
 
 **📫 How to reach me:**
