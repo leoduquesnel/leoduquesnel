@@ -9,11 +9,11 @@ Previously led full-stack development at **Apero Health** (Y Combinator), shippi
 Built enterprise microservices at **WeWork** that processed billions of IoT data points for space analytics.
 
 
-**Top 0.01% & 1% Cursor coder in SF** 🚀
+**Cursor Top User** 🚀
 
-https://x.com/LeoDuquesnel/status/1907493055156072956
-
-https://x.com/LeoDuquesnel/status/2001450004108501087
+- Top 0.01% https://x.com/LeoDuquesnel/status/1907493055156072956
+- Top 1% https://x.com/LeoDuquesnel/status/2001450004108501087
+- Top 2%, 2025 wrap https://x.com/LeoDuquesnel/status/2002169997192515739
 
 **📫 How to reach me:**
 
