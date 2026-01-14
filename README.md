@@ -1,12 +1,8 @@
 # Hi there 👋
 
-Senior Software Engineer at [Arbital Health](https://arbitalhealth.com), shipping healthcare analytics that actually work.
+Principal Software Engineer at [Arbital Health](https://arbitalhealth.com), shipping healthcare analytics that actually work.
 
-Architecting bulletproof authentication systems, multi-org platforms, and data pipelines that handle real-world scale.
-
-Previously led full-stack development at **Apero Health** (Y Combinator), shipping Django APIs and React frontends used by healthcare professionals daily.
-
-Built enterprise microservices at **WeWork** that processed billions of IoT data points for space analytics.
+Previously led full-stack development at **Apero Health** (Y Combinator) and **WeWork** (2021 IPO).
 
 
 **Cursor Top User** 🚀
